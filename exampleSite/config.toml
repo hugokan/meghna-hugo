@@ -4,10 +4,11 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "QuinteroApp"
+title = "QuinteroPRO"
+DefaultContentLanguage = "es"
 [Languages.es]
 contentDir = "content/spanish"
-home = "Home"
+home = "Inicio"
 languageCode = "es-es"
 languageName = "Es"
 weight = 1
@@ -20,12 +21,13 @@ weight = 2
 [Languages.fr]
 contentDir = "content/french"
 home = "Accueil"
+about = "chupi"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "About"
 weight = 1
 [[menu.main]]
 URL = "services"
@@ -41,7 +43,7 @@ name = "Team"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Precing"
 weight = 5
 [[menu.main]]
 URL = "blog"
@@ -53,7 +55,7 @@ name = "Contact"
 weight = 7
 [params]
 author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+description = "QuinteroPRO especilista en Diseño, Desarrollo y Analitica Web & Mobile"
 google_analitycs_id = ""
 logo = "images/logo.png"
 post_share = true

@@ -1,10 +1,25 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Ofertas Especiales
   pricing_table :
     # pricing table loop
-    - name : Free
+    - name : One Page
+      price : $50
+      unit : month
+      services:
+        - 1GB Disk Space
+        - 10 Email Account
+        - Script Installer
+        - 1 GB Storage
+        - 10 GB Bandwidth
+        - 24/7 Tech Support
+      button:
+        label : "Contactar"
+        link : "#"
+      
+    # pricing table loop
+    - name : App Móvil
       price : $99
       unit : month
       services:
@@ -15,27 +30,12 @@ pricing:
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
-        label : "Signup"
-        link : "#"
-      
-    # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
+        label : "Contactar"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
+    - name : Analítica
+      price : $45
       unit : month
       services:
         - 1GB Disk Space
@@ -45,12 +45,12 @@ pricing:
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
-        label : "Signup"
+        label : "Contactar"
         link : "#"
         
     # pricing table loop
-    - name : Platinum
-      price : $299
+    - name : Consultoría
+      price : $30
       unit : month
       services:
         - 1GB Disk Space
@@ -60,5 +60,5 @@ pricing:
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
-        label : "Signup"
+        label : "Contactar"
         link : "#"

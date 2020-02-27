@@ -3,14 +3,14 @@ about:
   enable : true
   title : Mis especialidades
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
     title : Desarrollo Web
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Creación de modernos Sitios Web Responsivos basados en Lenguaje HTML5 con estilos CSS3 y CMS, adaptados a cualquier modelo de Negocio.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : DEsarrollo Movil
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    title : Desarrollo Móvil
+    content : Desarrollo de Aplicaciones móviles multiplataformas y nativas para Android e IOS, acortando las distancia entre usted y sus clientes.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Analitica Web
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+    title : Analítica Web
+    content : Medición e interpretación de los datos online para buscar la mejor alternativa a la hora de realizar campañas digitales y medir su impacto.
