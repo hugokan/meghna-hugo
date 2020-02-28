@@ -1,64 +1,57 @@
-##################################### pricing ##############################
+---
 pricing:
-  enable : true
-  title : Ofertas Especiales
-  pricing_table :
-    # pricing table loop
-    - name : One Page
-      price : $50
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Contactar"
-        link : "#"
-      
-    # pricing table loop
-    - name : App Móvil
-      price : $99
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Contactar"
-        link : "#"
-        
-    # pricing table loop
-    - name : Analítica
-      price : $45
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Contactar"
-        link : "#"
-        
-    # pricing table loop
-    - name : Consultoría
-      price : $30
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Contactar"
-        link : "#"
+  enable: false
+  title: Ofertas Especiales
+  pricing_table:
+  - name: One Page
+    price: "$50"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Contactar
+      link: "#"
+  - name: App Móvil
+    price: "$99"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Contactar
+      link: "#"
+  - name: Analítica
+    price: "$45"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Contactar
+      link: "#"
+  - name: Consultoría
+    price: "$30"
+    unit: month
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Contactar
+      link: "#"
