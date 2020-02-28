@@ -9,19 +9,19 @@ feature:
       # feature item loop
     - title : Posicionamiento SEO
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Optimización de acciones para mejorar tu posicionamiento web en los listados de los motores de búsqueda como Google, Bing, y otros buscadores de internet.
       
       # feature item loop
     - title : Experiencia de Usuario
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Se busca mejorar la usabilidad y la interacción del usuario con tu sitio web y/o app móvil, dando como resultado una percepción positiva y recurrente. 
 
       # feature item loop
     - title : Analítica Web
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : A través del análisis de los datos por el tráfico hacia el sitio web se busca optimizar diversos aspectos de la misma y mejorar la conversión de las visitas.
       
       # feature item loop
     - title : Actualización Web
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Con el avance de la tecnología se hace necesario actualizar los sitios para que puedan ser responsivos y/o cumplir con los nuevos estándares para la web.

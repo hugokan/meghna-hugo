@@ -4,8 +4,8 @@ service:
   title : Servicios Especiales
   service_item :
     # service item loop
-    - name : WordPress
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    - name : Web Autoadministrables
+      icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
@@ -15,20 +15,20 @@ service:
       
     # service item loop
     - name : Landing Page
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Si quieres convertir visitas (leads) en clientes finales, es necesario crear una Landing Page que este diseñada a la medida de tus campañas digitales.
       
     # service item loop
     - name : Aplicaciones Móviles
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : Diseño y desarollo a medida de aplicaciones móviles multiplaformas, ya sea hibridas o nativas para Android y IOS, puede ser de cero o actualización.
       
     # service item loop
     - name : Posicionamiento SEO
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Aplicación de técnicas y herramientas digitales dirigidas a mejorar el rendimiento del sitio web, mejorando el ranking en los motores de busqueda.
       
     # service item loop
-    - name : Analitica Web
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Análisis Digital
+      icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      content : Recolección y análisis de Data Online combinado con herramientas de Business Intelligence, para indicar las estrategias y acciones más efectivas.
