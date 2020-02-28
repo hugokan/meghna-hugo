@@ -6,12 +6,12 @@ service:
     # service item loop
     - name : Web Autoadministrables
       icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Diseño de Sitios Web llave en mano, para que puedas gestionarlo tu mismo, ya sea, su Blog Profesional, Website Corporativo o E-commerce, usted decide.
       
     # service item loop
     - name : Diseño Responsivo
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Desarrollo y/o actualización de sitios web modernos y elegantes, adaptado a cualquier navegador y dispositivo, sea smartphone, tablet o pc.
       
     # service item loop
     - name : Landing Page
