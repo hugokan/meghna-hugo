@@ -21,21 +21,20 @@ weight = 2
 [Languages.fr]
 contentDir = "content/french"
 home = "Accueil"
-about = "chupi"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 3
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Especialidades"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "Servicios"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = "Portafolio"
 weight = 3
 [[menu.main]]
 URL = "team"
@@ -43,7 +42,7 @@ name = "Team"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "Precing"
+name = "Precios"
 weight = 5
 [[menu.main]]
 URL = "blog"
@@ -51,7 +50,7 @@ name = "Blog"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 7
 [params]
 author = "Themefisher"

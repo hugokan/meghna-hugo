@@ -4,7 +4,7 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : Consultoría Gratuita.
-  content : "Tienes la posibilidad de recibir tu primera asesoría totalmente gratuita, para apoyarte en el proceso de encontrar soluciones digitales."
+  content : "Tienes la opción de recibir tu primera asesoría totalmente GRATIS, para apoyarte en el proceso de encontrar soluciones digitales adaptadas a tus necesidades, dentro de las opciones estan:"
   feature_item : 
       # feature item loop
     - title : Posicionamiento SEO
@@ -12,12 +12,12 @@ feature:
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
       # feature item loop
-    - title : Usabilidad y Experiencia de Usuario
+    - title : Experiencia de Usuario
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : Landing Page
+    - title : Analítica Web
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       

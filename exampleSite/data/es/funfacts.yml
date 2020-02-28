@@ -12,7 +12,7 @@ funfacts:
     # counter item loop
     - title : "Proyectos activos"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "24"
+      count : "23"
     
     # counter item loop
     - title : "Asesorías realizadas"
