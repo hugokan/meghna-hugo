@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
     title : Desarrollo Web
-    content : Creación de modernos Sitios Web Responsivos basados en Lenguaje HTML5 con estilos CSS3 y CMS, adaptados a cualquier modelo de Negocio.
+    content : Creación de modernos Sitios Web Responsivos basados en HTML5, CSS3 y JS, con lenguajes de alto nivel, adaptado a cualquier modelo de Negocio.
 
   - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
     title : Desarrollo Móvil
-    content : Desarrollo de Aplicaciones móviles multiplataformas y nativas para Android e IOS, acortando las distancia entre usted y sus clientes.
+    content : Desarrollo de Aplicaciones móviles multiplataformas y nativas para Android e IOS, integrando usabilidad y con énfasis en la experencia de usuario.
 
-  - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
     title : Analítica Web
-    content : Medición e interpretación de los datos online para buscar la mejor alternativa a la hora de realizar campañas digitales y medir su impacto.
+    content : Medición e interpretación de Data Online para tomar decisiones efectivas a la hora de realizar campañas digitales y medir su impacto en la organización.
