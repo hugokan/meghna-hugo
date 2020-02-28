@@ -35,16 +35,16 @@
 				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action | safeURL }}" role="form">
 					<input name="e-mail" type="text" id="e-mail" autocomplete="off">
 					<div class="form-group">
-						<input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+						<input type="text" placeholder="Nombre" class="form-control" name="name" id="name" required>
 					</div>
 					<div class="form-group">
-						<input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+						<input type="email" placeholder="Email" class="form-control" name="email" id="email" required>
 					</div>
 					<div class="form-group">
-						<input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
+						<input type="tel" placeholder="Telefono" class="form-control" name="subject" id="subject" required>
 					</div>
 					<div class="form-group">
-						<textarea rows="6" placeholder="Message" class="form-control" name="message" id="message"></textarea>
+						<textarea rows="6" placeholder="Mensaje" class="form-control" name="message" id="message"></textarea>
 					</div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Submit">{{ i18n "submit" }}</button>

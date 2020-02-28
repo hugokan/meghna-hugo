@@ -4,17 +4,17 @@ contact:
   title : Más Información
   subtitle : Solicita una Asesoría Gratuita
   content : Puedes solicitar una cita para ampliar la información y juntos encontrar la solución más efectiva para tu caso.
-  form_action: "#" #contact form works with https://formspree.io
+  form_action: "https://formspree.io/myyjppwv" #contact form works with https://formspree.io quinteropro2020@gmail.com
 
   contact_details :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "Pocitos, Montevideo - Uruguay"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +598 97 528 923"
+      info : "Móvil: +598 97 528 923"
       
     - icon : ti-comments # themify icon pack : https://themify.me/themify-icons
       info : "Whatsapp: +598 97 528 923"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: quinteropro@gmail.com"
+      info : "Email: quinteropro2020@gmail.com"
