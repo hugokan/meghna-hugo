@@ -13,7 +13,9 @@
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
-		<h1>{{ .title | markdownify }}</h1>
+		{{ with .title }}
+		<img class="img-fluid" src="{{ . | absURL }}" alt="image">
+		{{ end }}
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
