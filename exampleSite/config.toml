@@ -1,5 +1,5 @@
 DefaultContentLanguage = "es"
-baseURL = "quinteropro.com"
+baseURL = "https://quinteropro.netlify.com"
 disableLanguages = ["en", "fr"]
 disqusShortname = ""
 paginate = "6"
