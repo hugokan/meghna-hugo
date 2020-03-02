@@ -768,6 +768,7 @@ a:hover {
 .counters-item i {
   margin-bottom: 10px;
   font-size: 40px;
+  color: #ffdf00;
   display: inline-block;
 }
 
