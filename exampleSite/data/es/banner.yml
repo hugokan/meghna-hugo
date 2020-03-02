@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : images/logoquinteropro.png
+  title : images/logoquinteropro1.png
   content : "Especialista en Diseño, Desarrollo y Analítica Web & Móvil"
   button:
     enable : true
