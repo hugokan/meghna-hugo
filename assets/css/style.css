@@ -726,12 +726,12 @@ a:hover {
 
 .con-info {
   margin-bottom: 20px;
-  color: #ffdf00;
 }
 
 .con-info i,
 .con-info span {
   padding-right: 5px;
+  color: #ffdf00;
 }
 
 .error {
