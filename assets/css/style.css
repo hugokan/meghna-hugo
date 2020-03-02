@@ -15,7 +15,7 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -99,7 +99,7 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: #fff;
+  color: #000000;
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
@@ -212,7 +212,7 @@ a:hover {
 
 .btn-main {
   background: #FFDF00;
-  color: #fff;
+  color: #000000;
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
@@ -221,7 +221,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #000000;
   color: #fff;
 }
 
