@@ -55,11 +55,6 @@ sections:
   label: Data
 - type: directory
   path: exampleSite/data
-  label: Data
-  create: documents
-  match: "**/*"
-- type: directory
-  path: exampleSite/data
   label: Homepage
   create: all
   match: "**/*"
