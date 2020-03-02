@@ -1,5 +1,5 @@
 DefaultContentLanguage = "es"
-baseURL = "http://quinteropro.com"
+baseURL = "quinteropro.com"
 disableLanguages = ["en", "fr"]
 disqusShortname = ""
 paginate = "6"
