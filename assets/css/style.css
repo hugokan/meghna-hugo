@@ -728,10 +728,13 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.con-info i,
-.con-info span {
+.con-info i 
+{
   padding-right: 5px;
   color: #ffdf00;
+}
+.con-info span {
+  padding-right: 5px;
 }
 
 .error {
