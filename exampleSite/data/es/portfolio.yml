@@ -4,73 +4,73 @@ portfolio:
   title : Trabajos Recientes
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+    - name : Anemoi Digital
+      image : images/portfolio/portfolio-9.jpg
+      image_webp : images/portfolio/portfolio-9.webp
       categories : ["web"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "https://themefisher.com"
-      
-    # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["app"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : Agencia de Marketing | One Page
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
+    - name : ExploApp
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["app"]
+      content : App Turistica | Android & IOS
+      link : ""
+      
+    # portfolio item loop
+    - name : EfectivoClic
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["web", "app"]
+      content : Financiera | Landing Page
+      link : ""
+      
+    # portfolio item loop
+    - name : TarjetaClic
       image : images/portfolio/portfolio-3.jpg
       image_webp : images/portfolio/portfolio-3.webp
-      categories : ["web", "app"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+      categories : ["analitica", "web"]
+      content : Tarjeta Prepaga | One Page
+      link : ""
       
     # portfolio item loop
-    - name : Bottol Label
+    - name : EfectivoClic
       image : images/portfolio/portfolio-4.jpg
       image_webp : images/portfolio/portfolio-4.webp
-      categories : ["analitica", "app"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
-      
-    # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
       categories : ["web"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+      content : Financiera | Web Corporativa
+      link : ""
       
     # portfolio item loop
-    - name : Tag Design
+    - name : tubiciok
       image : images/portfolio/portfolio-6.jpg
       image_webp : images/portfolio/portfolio-6.webp
-      categories : ["analitica"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+      categories : ["analitica", "web"]
+      content : Seguros de Bici | One Page
+      link : ""
       
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["app"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+    - name : TodoClic
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["analitica", "web"]
+      content : Tienda Virtual | E-commerce Prestashop
+      link : ""
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : Laburapp
       image : images/portfolio/portfolio-8.jpg
       image_webp : images/portfolio/portfolio-8.webp
       categories : ["web", "app"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+      content : Guia clasificados | Wordpress
+      link : ""
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["web", "analitica"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
-      link : "#"
+    - name : Explorando
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["web"]
+      content : Web Turistica | One Page
+      link : ""
