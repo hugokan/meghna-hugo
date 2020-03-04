@@ -13,8 +13,7 @@
 				<p>{{ .content | markdownify }}</p>
 				{{ if .button.enable }}
 				{{ with .button }}
-				<i class="{{ .icon }}"></i>
-				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
+				<a href="{{ .link }}" class="btn btn-main page-scroll {{ .icon }}">{{ .label }}</a>
 				{{ end }}
 				{{ end }}
 			</div>
