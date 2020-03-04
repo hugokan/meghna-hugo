@@ -7,6 +7,6 @@ cta:
   content : "¿Necesitas una solución digital altamente efectiva? Puedes comunicarte directamente por whatsapp ahora mismo!"
   button:
     enable : true
-    icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
+    icon : ti-comments # themify icon pack : https://themify.me/themify-icons
     label : "  ¿Hablamos?"
     link : "https://wa.me/59897528923"
