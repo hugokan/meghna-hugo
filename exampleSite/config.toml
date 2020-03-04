@@ -25,24 +25,20 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contacto"
-weight = 5
-[[menu.main]]
-URL = "portfolio"
-name = "Portafolio"
-weight = 3
+URL = "about"
+name = "Especialidades"
+weight = 1
 [[menu.main]]
 URL = "services"
 name = "Servicios"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "Especialidades"
-weight = 1
+URL = "portfolio"
+name = "Portafolio"
+weight = 3
 [[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "contact"
+name = "Contacto"
 weight = 4
 [params]
 author = "Themefisher"
