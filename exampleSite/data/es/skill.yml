@@ -3,7 +3,7 @@ skill:
   enable : true
   title : Lenguajes Favoritos
   subtitle : Algunos de mis lenguajes de Programación favoritos.
-  content : Pequeño Top personal de lenguajes de programación, igual hay que mencionar como posición de honorifica a Golang y su framework para paginas estáticas HUGO (este sitio fue construido usando HUGO :p), igual cabe mencionar algunos de los framework con los que disfruto trabajar como Django, Flutter, VUE.js, entre otros...
+  content : Les comparto mi pequeño Top personal de lenguajes de programación, igual hay que mencionar como posición de honorifica a Golang y su framework para páginas estáticas HUGO, el cual fue usado para construir este sitio, igual cabe mencionar algunos de los framework con los que disfruto trabajar como Django, Flutter, VUE.js, entre otros...
   image : images/about/lenguajes.png #colocar imagen con logos de lenguajes
   skill_item :
     # skill item loop
