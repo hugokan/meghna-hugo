@@ -13,6 +13,10 @@
 				<p>{{ .content | markdownify }}</p>
 				{{ if .button.enable }}
 				{{ with .button }}
+				<div class="con-info clearfix">
+					<i class="{{ .icon }}"></i>
+					<span>{{ .info }}</span>
+				</div>
 				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
 				{{ end }}
 				{{ end }}
