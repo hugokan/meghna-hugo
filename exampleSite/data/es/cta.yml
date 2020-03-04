@@ -8,5 +8,5 @@ cta:
   button:
     enable : true
     icon : ti-comments-smiley # themify icon pack : https://themify.me/themify-icons
-    label : "¿Hablamos?"
+    label : "  ¿Hablamos?"
     link : "https://wa.me/59897528923"
